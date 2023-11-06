@@ -1,5 +1,6 @@
 "use client"
 import CountButton from "./CountButton/CountButton"
+import CountButton2 from "./CountButton/CountButton2"
 import SearchBar from "./SearchBar/SearchBar"
 export default function Page() {
     return <div>
