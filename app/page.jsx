@@ -5,7 +5,7 @@ export default function Page() {
     return <div>
     <CountButton /><CountButton />
     <hr />
-    <a href="https://github.com/amandajg">My github repo!</a>
+    <a href="https://github.com/amandajg/reactjs">My github repo!</a>
     <hr />
     <SearchBar />
     </div>
